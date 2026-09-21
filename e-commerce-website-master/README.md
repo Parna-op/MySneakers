@@ -11,4 +11,4 @@ I built E-commerce website, when you can get into the website you seeing shoes m
 
 ## 🌍 How it looks 
 
-🖥️ Live: [E-commerce Website](https://sadikahmetaydin.github.io/e-commerce-website/)
+🖥️ Live: [E-commerce Website](https://my-sneakers-sigma.vercel.app/)
